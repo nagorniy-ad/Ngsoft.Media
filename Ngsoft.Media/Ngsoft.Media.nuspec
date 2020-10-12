@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Ngsoft.Media</id>
+    <version>1.0.0</version>
+    <title>Ngsoft.Media</title>
+    <authors>Aleksandr Nagorniy</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <repository type="git" url="https://github.com/nagorniy-ad/Ngsoft.Media.git" />
+    <icon>Ngsoft.Media.png</icon>
+    <description>Contains classes and utilities for media operations</description>
+    <releaseNotes>First public release.</releaseNotes>
+    <copyright>Copyright © Aleksandr Nagorniy</copyright>
+    <tags>media image</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Drawing.Common" version="4.7.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Ngsoft.Media.png" />
+  </files>
+</package>

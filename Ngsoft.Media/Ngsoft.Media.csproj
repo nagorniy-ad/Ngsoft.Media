@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Aleksandr Nagorniy</Authors>
+    <Company>Aleksandr Nagorniy</Company>
+    <Copyright>Copyright © Aleksandr Nagorniy</Copyright>
+    <Description>Contains classes and utilities for media operations</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
